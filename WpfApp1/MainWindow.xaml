@@ -11,8 +11,8 @@
         <Button Content="Рaсчет 2" HorizontalAlignment="Left" Height="38" Margin="38,143,0,0" VerticalAlignment="Top" Width="133" Click="Button_Click_1"/>
         <Button Content="Сохранить" HorizontalAlignment="Left" Height="38" Margin="38,186,0,0" VerticalAlignment="Top" Width="133" Click="Button_Click_2"/>
         <Button Content="Выход" HorizontalAlignment="Left" Height="38" Margin="38,343,0,0" VerticalAlignment="Top" Width="133" Click="Button_Click_3"/>
-
-        <Label Content="Количество элементов" HorizontalAlignment="Left" Margin="38,20,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <!--gh-->
+            <Label Content="Количество элементов" HorizontalAlignment="Left" Margin="38,20,0,0" VerticalAlignment="Top" FontSize="16"/>
         <Label Content="Результат" HorizontalAlignment="Left" Margin="244,32,0,0" VerticalAlignment="Top" FontSize="18"/>
         <ListBox Name="list1" HorizontalAlignment="Left" Height="315" Margin="377,66,0,0" VerticalAlignment="Top" Width="352"/>
         <TextBox Name="text1" HorizontalAlignment="Left" Height="23" Margin="38,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
